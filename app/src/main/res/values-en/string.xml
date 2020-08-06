@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User Finder</string>
+    <string name="setting">Setting</string>
+    <string name="search_username">Search Username</string>
+    <string name="user_photo">User Image</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="zero_number">0</string>
+    <string name="detail_user">Detail User</string>
+    <string name="user_is_exist">User has exist in database</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference-->
+    <string name="set_reminder">Set Reminder</string>
+    <string name="language">Language</string>
+    <string name="change_language">Change Language</string>
+    <string name="text_reminder">Set Reminder at 9:00 AM</string>
+
+</resources>

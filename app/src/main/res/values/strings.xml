@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github User Finders</string>
+    <string name="setting">Pengaturan</string>
+    <string name="search_username">Cari Username</string>
+    <string name="user_photo">Foto Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="zero_number">0</string>
+    <string name="detail_user">Detail Pengguna</string>
+    <string name="user_favorite" translatable="false">User Favorite</string>
+    <string name="favorite_user" translatable="false">Favorite User</string>
+    <string name="user_is_exist">Pengguna Sudah tersimpan didatabase</string>
+    <string name="title_activity_settings">Pengaturan</string>
+
+    <!-- Preference-->
+    <string name="set_reminder">Set Reminder</string>
+    <string name="language">Language</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="text_reminder">Setel Pengingat pada 9:00 Pagi</string>
+</resources>
