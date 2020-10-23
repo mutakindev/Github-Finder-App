@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\LENOVO\\AndroidStudioProjects\\GithubFinder\\consumerapp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\GithubFinder\\consumerapp\\src\\main\\res\\values-en\\string.xml",
+                    "from": {
+                        "startLines": "2,9,7,8,3,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,381,239,310,115,166",
+                        "endColumns": "56,56,69,69,49,45",
+                        "endOffsets": "109,433,304,375,160,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,112,169,239,309,359",
+                        "endColumns": "56,56,69,69,49,45",
+                        "endOffsets": "107,164,234,304,354,400"
+                    }
+                }
+            ]
+        }
+    ]
+}
